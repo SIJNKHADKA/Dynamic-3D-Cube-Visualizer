@@ -23,8 +23,6 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/3d-cube-simulation.git
-Navigate to the project directory:
 bash
 Copy code
 cd 3d-cube-simulation
